@@ -33,7 +33,7 @@
 		width: 40px;
 		height: 40px;
 		top: 50%;
-		z-index: 50;
+		z-index: 10;
 		margin-top: -20px;
 		border: none;
 		background-color: transparent;
